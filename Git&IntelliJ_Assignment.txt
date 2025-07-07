@@ -1,0 +1,36 @@
+Explain the following questions in two simple sentences
+
+What is the use of the git add command?
+It tells Git to start tracking changes you’ve made to files, preparing them for commit Basically, it moves your updated files into the staging area.
+
+Write the command to create a branch “feature-group”.
+git branch feature-group
+(or directly switch with `git checkout -b feature-group`).
+
+What is a pull request? Write the steps involved in creating a pull request.
+A pull request lets you tell others you’ve pushed changes to a branch and want them merged into the main code.
+To create it: push your branch, go to GitHub, click “Compare & pull request”, review it, and create the pull request.
+
+How do you add collaborators?
+Go to GitHub repository ➔ Settings ➔ Collaborators ➔ add  username or email so they can work on current project.
+
+What is the command used to commit our changes in github repo?
+git commit -m "Commit message"
+
+Create a github account and repository to save all your assignment tasks. Example repository name: rg-assignments: 
+git@github.com:sanjana-singamsetty/rg-assignments.git
+
+Create a branch called feature-java(you can use it later to push all your java related tasks to this branch)  
+
+
+Install IntelliJ IDE. Create a simple java project displaying “Hello World!!”and share the screenshot.
+
+
+
+In IntelliJ IDE, explore the shortcut keys for the following
+To run the project
+To select a line
+To comment/uncomment a line
+To delete a line
+Done 
+
